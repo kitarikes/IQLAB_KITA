@@ -1,0 +1,7 @@
+task_id,student_name,deadline,title,content,file_path,status
+3ba9fbbb-f68a-41cd-bf33-45cd524ebe1a,きた23,2023-12-08,きた,xxxxxxxxxx2,./storage/f4ae6fa0-182d-43b0-8a14-dbc09f8ae0ed_231207_要旨_添削.docx,True
+f755bc27-9678-4970-9d91-bb3584e5fa0e,喜多亮介,2023-12-08,添削のお願い,A学会の要旨提出,./storage/6ea9127e-bdbb-4a47-97cc-c406f693e21c_231207_要旨_添削.docx,True
+fd3f93b5-73b5-4ad8-a002-8952ad68d0f1,喜多亮介,2023-12-08,薬学会添削のお願い,"xxxxxxxxxxxxx
+xxxxxxxxxxxxx
+xxxxxxxxxxxxx",./storage/fc044bf4-c3a3-4f27-9a28-6a0b89cbb51c_応化演習要旨（仮)_1122再提出版_喜多.docx,False
+d9ef92c4-ad55-4f4a-b28c-9e9525a5af81,喜多亮介,2023-12-15,IQLAB学会 要旨添削の依頼,要旨添削をお願いしたいです。750文字以内との指定があり、かなり簡潔に書いていますので、ご了承ください。,./storage/b6c7e881-771a-4280-991e-7601b8f9e537_231207_要旨_添削.docx,True
